@@ -8,3 +8,5 @@ It follows the following steps:
 4) The user can animate the character
 
 The rig comes with an IK/FK switch either simple or on spot.
+
+A demo video is available here: https://youtu.be/3lFpGbHVhK8
